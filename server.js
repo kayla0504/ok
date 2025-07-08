@@ -8,7 +8,8 @@ const PORT = 3000;
 app.use(express.json());
 app.use(cors({
   origin: [
-    'http://localhost:5000',        
+    'http://localhost:5000',   
+    'https://securmaill.web.app',
     'https://seccureemail.web.app'  
   ]
 }));
