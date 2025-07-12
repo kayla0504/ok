@@ -10,7 +10,7 @@ app.use(cors({
   origin: [
     'http://localhost:5000',   
     'https://securmaill.web.app',
-    'https://ayamet.github.io/securemail/',
+    'https://ayamet.github.io',
     'https://seccureemail.web.app'  
   ]
 }));
